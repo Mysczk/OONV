@@ -44,7 +44,11 @@ class Analytic{
 
 class CSVDatabase{
     private static CSVDatabase? _db;
+    
+    // fields
     public string Path {get; private set;}
+
+    // constructor
     private CSVDatabase(string path){
         this.Path = path;
     }
