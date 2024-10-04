@@ -1,0 +1,14 @@
+C:\Development\C#\School\OONV\Project1\OONV\bin\Debug\net7.0\OONV.exe
+C:\Development\C#\School\OONV\Project1\OONV\bin\Debug\net7.0\OONV.deps.json
+C:\Development\C#\School\OONV\Project1\OONV\bin\Debug\net7.0\OONV.runtimeconfig.json
+C:\Development\C#\School\OONV\Project1\OONV\bin\Debug\net7.0\OONV.dll
+C:\Development\C#\School\OONV\Project1\OONV\bin\Debug\net7.0\OONV.pdb
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.AssemblyInfoInputs.cache
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.AssemblyInfo.cs
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.csproj.CoreCompileInputs.cache
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.dll
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\refint\OONV.dll
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.pdb
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\OONV.genruntimeconfig.cache
+C:\Development\C#\School\OONV\Project1\OONV\obj\Debug\net7.0\ref\OONV.dll
